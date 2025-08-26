@@ -1,2 +1,2 @@
 # machine_learning
-This repository contains projects with regression and classification 
+This repository contains regression and classification projects
